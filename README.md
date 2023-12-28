@@ -6,3 +6,7 @@ https://github.com/techiegith/JavaScript-Dom-Projects/assets/128968069/5db0b321-
 
 https://github.com/techiegith/JavaScript-Dom-Projects/assets/128968069/b28d4e0a-7098-41e9-b28b-928b80bc197e
 
+#Digital Clock
+![photo_2023-12-28_17-29-24](https://github.com/techiegith/JavaScript-Dom-Projects/assets/128968069/b79d423a-520d-4ff5-bae2-82db74b29e98)
+
+
